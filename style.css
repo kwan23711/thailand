@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+    font-weight: 100;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(236, 215, 188);
+    color: rgb(6, 6, 59);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    font-weight: 100;
+    display: inline-block;
+
+}
+.box-item {
+    background-color: rgb(255, 255, 255);
+    width: 12rem;
+    height: 1.5rem;
+    display:inline-table;
+}
+
+p {
+    font-size: 100%;
+}
+
